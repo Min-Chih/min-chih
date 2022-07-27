@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Min-Chih, and you can called me Chicki:relaxed:
+I'm Min-Chih :smile:
 I'm from Taiwan and just graduated from Edinburgh University in Business Degree:wink:
 - Coding Beginner:computer: 
 - Binge-watching Netflix:tv: 
