@@ -7,7 +7,7 @@ I'm from Taiwan and before starting my coding journey, I was dedicated to join t
 <span>
   
 You can find my LinkedIn [here](https://www.linkedin.com/in/minchih-yang/) 
-Or you can read [My CV](https://drive.google.com/file/d/1V3q4TUYeSg3k_0O6zVKPzrbgg6yNDs_F/view?usp=sharing)
+,or you can read My CV [here](https://drive.google.com/file/d/1V3q4TUYeSg3k_0O6zVKPzrbgg6yNDs_F/view?usp=sharing)
 <span>
 
 I have completed some projects with amazing teammates. Here are the links to the repos:
