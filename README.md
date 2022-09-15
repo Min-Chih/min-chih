@@ -1,12 +1,13 @@
 ### Hi there 👋
 I'm Min-Chih :smile:
-I'm from Taiwan and just graduated from Edinburgh University in Business Degree:wink:
-- Coding Beginner:computer: 
-- Binge-watching Netflix:tv: 
-- Tennis lover:tennis:
+I'm from Taiwan and before starting my coding journey, I was dedicated to join the business world. However, I met a bootcamper from [School of Code](https://www.schoolofcode.co.uk/), and that's how I got involved in the tech world. Here is a brief introduction of me:
+- I am a Graduate Bootcamper from SoC :computer: 
+- I like to play water sports (e.g. scuba diving, surfing, swimming) 🏊‍♀️
+- I play tennis since I was in primary school, and I was also a team member of university tennis team 🎾
 <span>
   
 You can find my LinkedIn [here](https://www.linkedin.com/in/minchih-yang/) 
+Or you can read [My CV](https://drive.google.com/file/d/1V3q4TUYeSg3k_0O6zVKPzrbgg6yNDs_F/view?usp=sharing)
 <span>
 
 I have completed some projects with amazing teammates. Here are the links to the repos:
