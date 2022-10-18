@@ -1,4 +1,5 @@
-# Min-Chih Yang   <a href="https://www.linkedin.com/in/minchih-yang/">
+# Min-Chih Yang   
+<a href="https://www.linkedin.com/in/minchih-yang/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
