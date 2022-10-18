@@ -1,4 +1,6 @@
-# Min-Chih Yang
+# Min-Chih Yang   <a href="https://www.linkedin.com/in/minchih-yang/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 I'm from Taiwan and before starting my coding journey, I was dedicated to join the business world. However, I met a bootcamper from [School of Code](https://www.schoolofcode.co.uk/), and that's how I got involved in the tech world. Here is a brief introduction of me:
 - I am a Graduate Bootcamper from SoC cohort 12 :computer: 
