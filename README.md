@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-I'm from Taiwan and before starting my coding journey, I was dedicated to join the business world. However, I met a bootcamper from [School of Code](https://www.schoolofcode.co.uk/), and that's how I got involved in the tech world. Here is a brief introduction of me:
+I'm from Taiwan and before starting my coding journey, I was dedicated to joining the business consultancy industry. However, I met a bootcamper from [School of Code](https://www.schoolofcode.co.uk/), who shared her great experince there, and that's how I got a ticket to the tech world. Here is a brief introduction of me:
 - I am a Graduate Bootcamper from SoC cohort 12 :computer: 
 - I like to play water sports (e.g. scuba diving, surfing, swimming) 🏊‍♀️
 - I play tennis since I was in primary school, and I was also a team member of university tennis team 🎾
