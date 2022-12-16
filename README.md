@@ -13,6 +13,7 @@ You can find my LinkedIn [here](https://www.linkedin.com/in/minchih-yang/)
 ,or you can read My CV [here](https://drive.google.com/file/d/1tSRQVzXT-twNOFTdWDeFq8Ala7yoxMd0/view?usp=sharing)
 <span>
 
+# Recent Projects    
 I have completed some projects with amazing teammates. Here are the links to the repos:
 - [Bootcamaper Helper App](https://github.com/SchoolOfCode/w9_frontend-project-team-phoenix)
 - [BÖK App](https://github.com/SchoolOfCode/final-project_front-end-hackson5)
