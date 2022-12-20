@@ -15,6 +15,7 @@ You can find my LinkedIn [here](https://www.linkedin.com/in/minchih-yang/)
 
 # Recent Projects    
 I have completed some projects with amazing teammates. Here are the links to the repos:
+<br>
 ➡️ [My Portfolio](https://github.com/Min-Chih/minchih-portfolio)
 <br>
 ➡️ [Bootcamaper Helper App](https://github.com/SchoolOfCode/w9_frontend-project-team-phoenix)
